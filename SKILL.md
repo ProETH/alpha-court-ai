@@ -255,6 +255,10 @@ CWC may serve as the utility token for accessing advanced AI analysis, premium d
 
 ---
 
+## Parameter Calibration
+
+The CCS thresholds presented in this Skill are reference values intended for demonstration purposes. Assets with significantly different market capitalizations may exhibit different capital flow characteristics. For example, high market capitalization assets such as Bitcoin (BTC) and Ethereum (ETH) typically require lower CCS thresholds due to their substantially larger trading volumes and deeper liquidity compared to small- or mid-cap assets. Therefore, AI Agents should dynamically calibrate CCS thresholds according to each asset's historical capital flow behavior, liquidity profile, market capitalization, and volatility.
+
 # Disclaimer
 
 This Skill is provided for educational and research purposes only.
